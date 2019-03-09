@@ -1,0 +1,23 @@
+<aside>
+  <div class="container">
+    <img src=" {{ site.baseurl }}/img/logo-2xn.png " width="349" alt="Blaqi" >
+    <nav>
+      <ul>
+        <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+        {% for page in site.pages %} {% if page.title %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %} {% endfor %}
+        <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
+        
+      </ul>
+      </li>
+      </ul>
+    </nav>
+  </div>
+</aside>
+
+<header>
+  <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+</header>
+
+

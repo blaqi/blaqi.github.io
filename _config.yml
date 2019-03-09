@@ -1,0 +1,9 @@
+# Site Settings
+description: >
+  Blaqi mascot
+baseurl: "/"
+
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
