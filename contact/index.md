@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![My helpful screenshot](/startjekyll/img/pose.png)
+![Eli](/img/pose.png)
 
 
 This form is required for scheduling any appearance. I acknowledge that I have read and understand the policies related to booking

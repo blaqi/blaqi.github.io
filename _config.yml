@@ -1,7 +1,6 @@
 # Site Settings
 description: >
   Blaqi mascot
-baseurl: "/"
 
 # Build Settings
 sass:
