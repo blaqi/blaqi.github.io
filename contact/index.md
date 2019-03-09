@@ -2,8 +2,12 @@
 layout: default
 ---
 
-![Eli](/img/pose.png)
+![My helpful screenshot](/startjekyll/img/pose.png)
 
+
+This form is required for scheduling any appearance. I acknowledge that I have read and understand the policies related to booking
+an appearance with the blaqi mascot. I further understand that by completing this form, I am not guaranteed that this request will be fulfilled.
+I will be notified by phone or email of approval or denial of this appearance.
 
 
 ### Requirements
@@ -13,14 +17,6 @@ layout: default
 
 3) All fees must be paid at least two (2) days prior to the scheduled appearance. If appearance fee is not paid by
 this time, the appearance will be canceled without notice.
-
-
-This form is required for scheduling any appearance. I acknowledge that I have read and understand the policies related to booking
-an appearance with the blaqi mascot. I further understand that by completing this form, I am not guaranteed that this request will be fulfilled.
-I will be notified by phone or email of approval or denial of this appearance.
-
-
-
 
  <!-- Contact -->
 <div class="containerd">  
