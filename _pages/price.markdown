@@ -1,6 +1,8 @@
 ---
 layout: default
 title:  "Pricing"
+permalink: /pricing/
+
 
 ---
 

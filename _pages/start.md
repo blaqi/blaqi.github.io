@@ -31,5 +31,5 @@ Still in doubt, We'll try our level best to convince you. Eli the elephant has a
 
 [Contact Us][contact] for more info on how to get the most out of us. Fill in the form and we promise to get back to you in the shortest time possible.
 
-[contact]:     /startjekyll/contact/
+[contact]:     /contact/
 
