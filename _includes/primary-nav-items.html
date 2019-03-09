@@ -3,8 +3,8 @@
     <img src=" {{ site.baseurl }}/img/logo-2xn.png " width="349" alt="Blaqi" >
     <nav>
       <ul>
-        <li><a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
         {% for page in site.pages %} {% if page.title %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %} {% endfor %}
         
       </ul>
@@ -15,6 +15,7 @@
 </aside>
 
 <header>
+  <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
 </header>
 
 
