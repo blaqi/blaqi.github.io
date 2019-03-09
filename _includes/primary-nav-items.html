@@ -7,6 +7,7 @@
         {% for page in site.pages %} {% if page.title %}
         <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
         {% endif %} {% endfor %}
+        <li><a href="{{ "/contact" | prepend: site.baseurl }}">Contact</a></li>
         
       </ul>
       </li>
@@ -16,7 +17,6 @@
 </aside>
 
 <header>
-  <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
 </header>
 
 
