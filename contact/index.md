@@ -6,7 +6,7 @@ layout: default
 ### Requirements
 1) Company/Organization must provide a private location for the mascot member to prepare for the appearance.
 
-2) Company/Organization must provide drinking water and a 10 minute break each hour for the mascot member.
+2) Prices are inclusive of VAT and may change without prior notice.
 
 3) All fees must be paid at least two (2) days prior to the scheduled appearance. If appearance fee is not paid by
 this time, the appearance will be canceled without notice.
